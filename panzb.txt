@@ -96,13 +96,12 @@ CCTV-9记录,http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
 CCTV-9记录,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv9hd
 CCTV-9记录,http://111.32.169.224/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
 CCTV-9记录,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
-CCTV-10科教,http://111.20.33.70/PLTV/88888893/224/3221226189/index.m3u8$超清1080P
 CCTV-10科教,http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8$超清1080P
+CCTV-10科教,http://111.20.33.70/PLTV/88888893/224/3221226189/index.m3u8$超清1080P
 CCTV-10科教,http://219.140.56.34:3333/tsfile/live/0010_1.m3u8$超清1080P
 CCTV-10科教,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv10hd
-CCTV-10科教,http://111.21.23.48/PLTV/88888893/224/3221226189/index.m3u8
 CCTV-10科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
-CCTV-10科教,http://39.134.67.110/PLTV/88888888/224/3221225677/index.m3u8$超清1080P
+CCTV-12社会与法,http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
 CCTV-12社会与法,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv12hd
 CCTV-12社会与法,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
 CCTV-12社会与法,http://39.134.65.251/PLTV/88888888/224/3221225669/1.m3u8
