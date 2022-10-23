@@ -1,11 +1,11 @@
 {
-"spider":"https://panyuxi.asuscomm.com:444/AICLOUD1616584293/1022.jar;md5;0DE800421C4AE17DB9760784B1B566A9",
+"spider":"https://panyuxi.asuscomm.com:444/AICLOUD318601189/1008.jar;md5;28B008E098EE5E7DFDA159BD7195CA52",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {"key":"360_spider","name":"💥主页360(官源)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "多多","name": "💥多多资源","type": 1,"api": "https://www.ddzyz1.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
 {"key": "哔滴影视","name": "💥哔滴影视(爬虫)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "TT","name": "💥TuTu(爬虫)","api": "csp_AppTT","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
+{"key": "TT","name": "💥TuTu(爬虫)","api": "csp_AppTT","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"https://panyuxi.asuscomm.com:444/AICLOUD1616584293/1022.jar;md5;0DE800421C4AE17DB9760784B1B566A9"},
 {"key":"3EDY","name":"💥3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"💥77视频(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"💥快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
