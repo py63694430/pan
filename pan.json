@@ -15,7 +15,7 @@
 {"key":"csp_biubiu_花猫TV","name":"💥花猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://home.jundie.top:81/catvod/TVBox/MaooXB2/花猫TV.json"},
 {"key": "drpy_js_低端影视","name": "低端影视(道长)","type": 3,"api": "https://gitcode.net/fenwe078/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/fenwe078/dr_py/-/raw/master/js/ddys.js"},
 {"key": "3EDY","name": "💥3EDY(SP)","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "LiteApple","name": 💥小苹果(SP),"type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "LiteApple","name": "💥小苹果(SP),"type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lib","name": "💥Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1},
   {"key": "csp_Yiso","name": "💥一搜(阿里网盘仅搜索)","type": 3,"api": "csp_Yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "74fab80360754f0c9d6db51846c235c6"},
 {"key":"Upyunso","name":"😻Up云(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"74fab80360754f0c9d6db51846c235c6"},
