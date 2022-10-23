@@ -115,7 +115,7 @@ CCTV-10科教,http://111.20.33.70/PLTV/88888893/224/3221226189/index.m3u8$超清
 CCTV-10科教,http://219.140.56.34:3333/tsfile/live/0010_1.m3u8$超清1080P
 CCTV-10科教,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv10hd
 CCTV-10科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
-CCTV-12社会与法,CCTV12,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225932/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+CCTV-12社会与法,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225932/index.m3u8servicetype=1&IASHttpSessionId=RR423820220409134714119178
 CCTV-12社会与法,http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
 CCTV-12社会与法,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv12hd
 CCTV-12社会与法,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
@@ -132,12 +132,13 @@ CCTV-15音乐,http://117.148.179.169/PLTV/88888888/224/3221231693/1.m3u8
 CCTV-16奥林匹克,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227125/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 CCTV-16奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8?sign=1652501519-74c12e488b03fc82b06956a2aeb3162a?key=635dfdbc233a862ba75da25819f42f19
 CCTV-16奥林匹克,http://111.13.42.240/PLTV/88888888/224/3221226892/1.m3u8
-CCTV-17农业农村,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+CCTV-17农业农村,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226990/index.m3u8servicetype=1&IASHttpSessionId=RR423820220409134714119178
 CCTV-17农业农村,http://39.134.32.102:6610/270000001111/1110000391/index.m3u8?IASHttpSessionId=OTT
 CCTV-17农业农村,ttp://111.13.42.235/PLTV/88888888/224/3221226318/1.m3u8
 CCTV-17农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-cctv17/1.m3u8
 CCTV-17农业农村,http://111.20.33.106/PLTV/88888893/224/3221226198/index.m3u8
 CCTV-17农业农村,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv17hd
+湖南卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 湖南卫视,http://111.13.42.235/PLTV/88888888/224/3221226509/1.m3u8
 湖南卫视,http://125.40.191.58:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://111.20.33.70/TVOD/88888893/224/3221226211/index.m3u8
@@ -147,6 +148,7 @@ CCTV-17农业农村,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv17hd
 湖南卫视,http://117.148.129.12/PLTV/88888888/224/3221230824/index.m3u8
 湖南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8
 湖南卫视,http://39.134.65.251/PLTV/88888888/224/3221225506/1.m3u8
+浙江卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225870/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://111.13.42.235/PLTV/88888888/224/3221226365/1.m3u8
 浙江卫视,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=zjwshd
@@ -155,6 +157,7 @@ CCTV-17农业农村,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv17hd
 东方卫视,http://111.20.33.86/PLTV/88888888/224/3221225797/index.m3u8
 东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
 东方卫视,http://39.134.65.198/PLTV/88888888/224/3221225672/1.m3u8
+江苏卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227160/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 江苏卫视,http://183.207.255.197/live/program/live/jswshd/2300000/mnf.m3u8
 江苏卫视,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=jswshd
 江苏卫视,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
