@@ -250,21 +250,6 @@ CCTV-17农业农村,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv17hd
 金鹰纪实,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226937/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 生活时尚,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
-⚡IPV6儿童,#genre#
-炫舞未来,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226699/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-优漫卡通,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225874/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-卡酷少儿,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225871/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-金鹰卡通,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227018/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-嘉佳卡通,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227230/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-哈哈炫动,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227177/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-福建少儿,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-动漫,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-动漫秀场,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-黑龙江少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
-动画HD,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225716/2/index.m3u8
-广东嘉佳卡通,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226601/index.m3u8
-江苏优漫卡通,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226606/index.m3u8
-
 💥影视频道,#genre#
 NewTV超级综艺,http://111.13.42.240/PLTV/88888888/224/3221226231/1.m3u8
 NewTV超级综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
@@ -343,6 +328,21 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 无锡生活,http://47.104.93.129/daili1/hoge.php?id=jswxsh
 宜兴新闻频道,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 宜兴紫砂频道,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
+
+⚡IPV6儿童,#genre#
+炫舞未来,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226699/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+优漫卡通,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225874/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+卡酷少儿,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225871/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+金鹰卡通,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227018/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+嘉佳卡通,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227230/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+哈哈炫动,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227177/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+福建少儿,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+动漫,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226732/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+动漫秀场,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+黑龙江少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
+动画HD,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225716/2/index.m3u8
+广东嘉佳卡通,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226601/index.m3u8
+江苏优漫卡通,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226606/index.m3u8
 
 💦IPTV专线,#genre#
 CCTV-1,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv1hd
