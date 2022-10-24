@@ -59,7 +59,7 @@ CCTV-4中文国际,http://111.20.33.70/TVOD/88888893/224/3221226223/index.m3u8
 CCTV-4中文国际,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv4hd
 CCTV-4中文国际,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 CCTV-4中文国际,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-CCTV-5体育,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225886/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+CCTV-5体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225633/2/index.m3u8
 CCTV-5体育,http://39.134.32.108:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 CCTV-5体育,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 CCTV-5体育,http://111.20.33.70/PLTV/88888893/224/3221226395/index.m3u8
@@ -199,7 +199,7 @@ CCTV-17农业农村,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv17hd
 河北卫视,http://111.13.42.235/PLTV/88888888/224/3221226507/1.m3u8
 河北卫视,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=hbwshd
 湖南卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-河南卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225842/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+河南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225611/2/index.m3u8
 江西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225492/2/index.m3u8
 安徽卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227178/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 安徽卫视,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=ahwshd
@@ -251,9 +251,6 @@ CCTV-17农业农村,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv17hd
 生活时尚,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
 💥影视频道,#genre#
-NewTV爱情喜剧,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225877/index.m3u8?servicetype=1
-NewTV惊悚悬疑,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225885/index.m3u8?servicetype=1
-NewTV海外剧场,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225881/index.m3u8?servicetype=1
 NewTV超级综艺,http://111.13.42.240/PLTV/88888888/224/3221226231/1.m3u8
 NewTV超级综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
 NewTV超级综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
@@ -300,7 +297,6 @@ IPTV芒果互娱,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001
 IPTV芒果热剧,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001026000000099232/main.m3u8?IASHttpSessionId=OTT
 IPTV芒果好看,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001026000000099174/main.m3u8?IASHttpSessionId=OTT
 IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001008000000292438/main.m3u8?IASHttpSessionId=OTT
-东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8$超清1080P
 淘电影,http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8$超清1080P
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 家庭剧场,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225882/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -314,11 +310,9 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 家庭剧场，http://111.13.42.235/PLTV/88888888/224/3221226330/1.m3u8
 电影大片,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs$高清1080P
 仙侠玄幻,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs$高清1080P
-豆瓣高分,http://wtv.weetai.cn/iptv/2022/tyzb04.php?id=1800558$高清1080P
 高分经典http://wtv.weetai.cn/iptv/2022/tyzb09.php?id=6079455$高清1080P
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
-云上电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337/zmid$高清720P
 古装剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225678/2/index.m3u8
 古装电影,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs$高清1080P
 爱情喜剧,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225877/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
