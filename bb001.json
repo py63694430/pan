@@ -99,7 +99,6 @@
 "zidingyi": [
 {"name": "乐猪影视",
 "url": "http://www.lezhutv.com",
-"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "tihuan": "cnzz.com",
 "User": "空",
 "fenlei": "电视剧$/type/2-#电影$/type/1-#综艺$/type/3-#动漫$/type/4-#韩剧$/type/14-#美剧$/type/15-",
@@ -218,7 +217,6 @@
 
 {"name": "口袋影院",
 "url": "http://www.koudaitv.com",
-"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "tihuan": "cnzz.com",
 "User": "空",
 "fenlei": "电影$/type/1-1--hits------#连续剧$/type/2-1--hits------#动漫$/type/4-1--------#综艺$/type/3-1--------#韩剧$/type/14-1--------#美剧$/type/15-1--------",
@@ -392,7 +390,6 @@
 
 {"name": "花猫TV",
 "url": "http://www.huamaotv.com",
- "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "tihuan": "cnzz.com",
 "User": "空",
 "fenlei": "电影$/type/1-#连续剧$/type/2-#综艺$/type/3-#动漫$/type/4-#",
