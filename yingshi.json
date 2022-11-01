@@ -1,5 +1,7 @@
 {
  "spider":"https://panyuxi.asuscomm.com:444/AICLOUD318601189/1008.jar;md5;28B008E098EE5E7DFDA159BD7195CA52",
+ 
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9weTYzNjk0NDMwL3Bhbi9tYWluL3BhbnpiLnR4dA=="]}]}],
   "sites": [
     {"key":"360_spider","name":"💥主页-360(官源)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "多多","name": "💥多多资源","type": 1,"api": "https://www.ddzyz1.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
