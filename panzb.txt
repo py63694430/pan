@@ -260,6 +260,8 @@ CCTV-17农业农村,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv17hd
 快乐垂钓,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227028/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 金鹰纪实,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226937/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 生活时尚,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
+
 
 💥影视频道,#genre#
 NewTV超级综艺,http://111.13.42.240/PLTV/88888888/224/3221226231/1.m3u8
@@ -288,11 +290,14 @@ NewTV超级电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212256
 黑莓动画,http://39.135.138.59:18890/PLTV/88888910/224/3221225672/index.m3u8
 黑莓动画,http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC动作电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
 CHC动作电影,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=chcdzdy
 CHC动作电影,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC动作电影,http://58.34.204.67:9901/tsfile/live/1005_1.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC高清电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 CHC高清电影,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=chcgqdy
 CHC高清电影,http://live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -362,6 +367,39 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 江苏优漫卡通,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226606/index.m3u8
 
 💦IPTV专线,#genre#
+CCTV-1,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV-2,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV-3,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV-4,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV-5,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+CCTV-5+,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
+CCTV-6,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/ 2000203303.m3u8
+CCTV-7,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
+CCTV-8,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV-9,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
+CCTV-10,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
+CCTV-11,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
+CCTV-12,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV-13,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV-14,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
+CCTV-15,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
+CCTV-16,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012375003.m3u8
+CCTV-17,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
+CCTV-4K,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+CCTV-怀旧剧场,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV-高尔夫网球,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV-世界地理,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV-兵器科技,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV-卫生健康,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+CCTV-风云剧场,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV-央视台球,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+CCTV-央视文化精品,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+CCTV-女性时尚,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+CCTV-电视指南,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+CCTV-风云音乐,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV-风云足球,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+CCTV-第一剧场,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
 CCTV-1,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv1hd
 CCTV-2,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv2hd
 CCTV-3,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv3hd
