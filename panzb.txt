@@ -1,12 +1,6 @@
 💖常看,#genre#
 CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-4K超高清,http://121.18.168.210/liveop.cctv.cn/hls/4KHD/playlist.m3u8
-4K,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-凤凰卫视中文,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-凤凰卫视中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视中文,http://61.219.170.95:1856💖常看,#genre#
-CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CCTV-4K超高清,http://121.18.168.210/liveop.cctv.cn/hls/4KHD/playlist.m3u8
 凤凰卫视中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视中文,http://61.219.170.95:18566/.m3u8
 凤凰卫视中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -572,3 +566,4 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 奕坦春秋,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
+
