@@ -104,6 +104,7 @@ CCTV-10科教,http://219.140.56.34:3333/tsfile/live/0010_1.m3u8$超清1080P
 CCTV-10科教,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv10hd
 CCTV-10科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
 CCTV-11,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv11hd
+CCTV-11,http://hls.ye23.vip/hls/cctv11hd.m3u8
 CCTV-12社会与法,http://39.135.6.18:6610/000000001001/6000000001000022586/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000022586
 CCTV-12社会与法,http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
 CCTV-12社会与法,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv12hd
