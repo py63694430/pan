@@ -1,6 +1,7 @@
 💖常看,#genre#
 CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-4K超高清,http://121.18.168.210/liveop.cctv.cn/hls/4KHD/playlist.m3u8
+纯享4K,http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 凤凰卫视中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视中文,http://61.219.170.95:18566/.m3u8
 凤凰卫视中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -46,6 +47,10 @@ CCTV-4中文国际,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv4hd
 CCTV-4中文国际,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 CCTV-4中文国际,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 CCTV-5体育,http://39.135.6.18:6610/000000001001/6000000001000016431/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000016431
+CCTV-5体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV-5体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV-5体育,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV-5体育,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 CCTV-5体育,http://39.134.32.108:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 CCTV-5体育,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
@@ -61,6 +66,9 @@ CCTV-5⁺体育赛事,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/in
 CCTV-5⁺体育赛事,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV-5⁺体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
 CCTV-5⁺体育赛事,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
+五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 CCTV-6电影,http://39.135.6.18:6610/000000001001/6000000001000004574/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000004574
