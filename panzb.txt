@@ -36,7 +36,7 @@ CCTV11,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv11hd
 CCTV12,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv12hd
 CCTV14,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv14hd
 CCTV15,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv15hd
-CCTV-16奥林匹克,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8?sign=1652501519-74c12e488b03fc82b06956a2aeb3162a?key=635dfdbc233a862ba75da25819f42f19
+CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8?sign=1652501519-74c12e488b03fc82b06956a2aeb3162a?key=635dfdbc233a862ba75da25819f42f19
 CCTV16,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv16hd
 CCTV17,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv17hd
 湖南卫视,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=hunwshd
