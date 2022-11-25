@@ -1,0 +1,35 @@
+{
+  "spider": "https://panyuxi.asuscomm.com:444/AICLOUD467983640/1123.jar;md5;e3f1a10099611223738e86beb3e859c",
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://raw.fastgit.org/py63694430/pan/main/panzb.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+    }
+  ],
+  "sites": [
+    {"key": "Lezhu_spider","name": "💥主页-乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1},
+    {"key":"csp_CZSPP","name":"💥厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
+    {"key": "哔滴影视","name": "💥哔滴影视(爬虫)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key":"蓝光电影","name":"💥蓝光电影","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Wmkk","name":"💥完美看看","api":"csp_Wmkk","type":3,"playerType":2,"filterable":1,"quickSearch":1,"searchable":1},
+    {"key":"棉花影视","name":"💥棉花影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
+    {"key":"百影视频","name":"💥百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
+    {"key":"YQK_spider","name":"💥一起起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
+    {"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"c3895f91c81741959c22feb5fe3a5def"},
+    {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"c3895f91c81741959c22feb5fe3a5def"},
+    {"key":"FindZY","name":"找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"c3895f91c81741959c22feb5fe3a5def"},
+
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "c3895f91c81741959c22feb5fe3a5def"
+    }
+  ]
+}
