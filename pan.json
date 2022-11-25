@@ -5,8 +5,6 @@ https://panyuxi.asuscomm.com:444/AICLOUD369205399/custom_spider.jar;md5;6BFFA41C
 {"key": "Lezhu_spider","name": "💥主页-乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1,"jar":"
 https://panyuxi.asuscomm.com:444/AICLOUD467983640/1123.jar;md5;e3f1a10099611223738e86beb3e859c"},
 {"key":"SP360","name":"💥SP360","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
-{"key":"Tutu_spider","name":"💥图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618","jar":"
-https://panyuxi.asuscomm.com:444/AICLOUD467983640/1123.jar;md5;e3f1a10099611223738e86beb3e859c"},
 {"key":"csp_CZSPP","name":"💥厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"
 https://panyuxi.asuscomm.com:444/AICLOUD467983640/1123.jar;md5;e3f1a10099611223738e86beb3e859c"},
 {"key":"Zjdr","name":"💥追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
@@ -81,12 +79,9 @@ https://panyuxi.asuscomm.com:444/AICLOUD1838037674/cc.jar"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-{"name":"可遇不可汄","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"vip1","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=7057249&key=bijnorsyFJOSVYZ235&url="},
 {"name":"vip2","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=7057249&key=bijnorsyFJOSVYZ235&wap=1&url="},
-{"name":"刚佬解析","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
-{"name":"365","type":0,"url": "https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
+{"name":"懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
 ],
 "ijk":[
 {"group":"软解码","options":[
