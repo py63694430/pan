@@ -18,8 +18,10 @@ https://panyuxi.asuscomm.com:444/AICLOUD467983640/1123.jar;md5;e3f1a100996112237
 {"key":"Auete","name":"💥奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
 {"key":"YQK_spider","name":"💥一起起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"
 https://panyuxi.asuscomm.com:444/AICLOUD467983640/1123.jar;md5;e3f1a10099611223738e86beb3e859c"},
-{"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/61543/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar?sign=BTFlwsHLsd9ID93zVjRQSvbbhRn8g4_KtO-cGrGthRI%3D%3A0"},
-{"key":"csp_Bttoo","name":"🐞两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/29963/box281.jar?sign=xx5cM6sdOlQIx7BcKyXo0nnj-ZrVehFpllWJC4L30xM%3D%3A0"},
+{"key": "Coke","name": "Cokemv(爬虫)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"
+https://panyuxi.asuscomm.com:444/AICLOUD1838037674/cc.jar"},
+{"key": "Bttoo","name": "Bttoo(爬虫)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"
+https://panyuxi.asuscomm.com:444/AICLOUD1838037674/cc.jar"},
 {"key": "哔滴影视","name": "💥哔滴影视(爬虫)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"
 https://panyuxi.asuscomm.com:444/AICLOUD467983640/1123.jar;md5;e3f1a10099611223738e86beb3e859c"},
 {"key":"蓝光电影","name":"💥蓝光电影","type":3,"api":"csp_Lgdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"
@@ -81,6 +83,7 @@ https://panyuxi.asuscomm.com:444/AICLOUD1838037674/cc.jar"},
 {"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 {"name":"vip1","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=7057249&key=bijnorsyFJOSVYZ235&url="},
 {"name":"vip2","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=7057249&key=bijnorsyFJOSVYZ235&wap=1&url="},
+{"name":"刚佬解析","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
 {"name":"懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
 ],
 "ijk":[
