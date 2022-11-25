@@ -18,9 +18,9 @@ https://panyuxi.asuscomm.com:444/AICLOUD467983640/1123.jar;md5;e3f1a100996112237
 {"key":"Auete","name":"💥奥特","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
 {"key":"YQK_spider","name":"💥一起起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"
 https://panyuxi.asuscomm.com:444/AICLOUD467983640/1123.jar;md5;e3f1a10099611223738e86beb3e859c"},
-{"key": "Coke","name": "Cokemv(爬虫)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"
+{"key": "Coke","name": "💥Cokemv(爬虫)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"
 https://panyuxi.asuscomm.com:444/AICLOUD1838037674/cc.jar"},
-{"key": "Bttoo","name": "Bttoo(爬虫)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"
+{"key": "Bttoo","name": "💥Bttoo(爬虫)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"
 https://panyuxi.asuscomm.com:444/AICLOUD1838037674/cc.jar"},
 {"key": "哔滴影视","name": "💥哔滴影视(爬虫)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"
 https://panyuxi.asuscomm.com:444/AICLOUD467983640/1123.jar;md5;e3f1a10099611223738e86beb3e859c"},
@@ -39,7 +39,7 @@ https://panyuxi.asuscomm.com:444/AICLOUD467983640/1123.jar;md5;e3f1a100996112237
 {"key":"AList","name": "💥AList","type": "3","api":"csp_AList","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
 {"key": "csp_剧荒","name": "💥剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"
 https://panyuxi.asuscomm.com:444/AICLOUD1838037674/cc.jar"},
-{"key": "农民","name": "农民(爬虫)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json","jar":"
+{"key": "农民","name": "💥农民(爬虫)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json","jar":"
 https://panyuxi.asuscomm.com:444/AICLOUD1838037674/cc.jar"},
 {"key":"Gitcafe","name":"💥纸条","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"},
 {"key":"Zhaozy","name":"💥资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"},
