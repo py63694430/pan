@@ -1,8 +1,6 @@
 💖常看,#genre#
 凤凰卫视中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视中文,http://61.219.170.95:18566/.m3u8
 凤凰卫视资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰卫视资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 CCTV13,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv13hd
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
@@ -11,8 +9,11 @@ CCTV13,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
 CCTV1,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv1hd
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV2,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv2hd
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV3,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv3hd
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv4hd
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
@@ -31,7 +32,10 @@ CCTV5⁺,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
 CCTV6,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv6hd
 CCTV7,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv7hd
 CCTV8,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv8hd
+CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 CCTV9,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv9hd
+CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV10,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv10hd
 CCTV11,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv11hd
 CCTV12,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv12hd
