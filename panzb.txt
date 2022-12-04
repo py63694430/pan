@@ -9,11 +9,8 @@ CCTV13,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
 CCTV1,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv1hd
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV2,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv2hd
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV3,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv3hd
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv4hd
 CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
@@ -30,10 +27,7 @@ CCTV5⁺,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
 CCTV6,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv6hd
 CCTV7,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv7hd
 CCTV8,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv8hd
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 CCTV9,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv9hd
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV10,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv10hd
 CCTV11,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv11hd
 CCTV12,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv12hd
