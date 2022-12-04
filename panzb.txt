@@ -15,8 +15,6 @@ CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 CCTV3,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv3hd
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv4hd
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv5hd
