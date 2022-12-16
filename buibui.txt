@@ -113,7 +113,7 @@
 {"name":"虾米","url":"https://jx.xmflv.com/?url="},
 {"name":"九亿","url":"https://m3u8.look4you.top/?url="}
 ],
-"dianshizhibo": "http://ht.grelighting.cn/html/zb.txt",
+"dianshizhibo": "https://raw.fastgit.org/py63694430/pan/main/panzb.txt",
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 "guolvdizhi": ".gif#.css#.html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
 
