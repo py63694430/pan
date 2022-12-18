@@ -17,8 +17,8 @@ CCTV5⁺,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv5p
 CCTV5⁺,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5⁺,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
 CCTV5⁺,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
+五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
-五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 CCTV6,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv6hd
 CCTV7,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv7hd
 CCTV8,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv8hd
