@@ -14,9 +14,11 @@ CCTV3,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv3hd
 CCTV4,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv4hd
 CCTV5,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv5hd
 CCTV5⁺,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv5p
-CCTV5⁺,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5⁺,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
-CCTV5⁺,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
+CCTV5+,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV5+,http://live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR$2M1080
+CCTV5+,http://111.11.123.37:6610/000000001000/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3$8M1080
+CCTV5+,http://111.11.123.37:6610/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3$4M1080
+CCTV5+,http://111.11.123.36:6610/000000001000/6000000001000015875/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3$8M1080
 五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://114.84.76.27:7777/tsfile/live/1021_1.m3u8
 五星体育,http://112.25.48.11/live/program/live/ssty/4000000/mnf.m3u8
