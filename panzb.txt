@@ -265,7 +265,28 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 江苏优漫卡通,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226606/index.m3u8
 4K,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
-
+｜VIP 测试直播资源_88,#genre#
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+时尚频道,http://juyunlive.juyun.tv/live/24950198.m3u8
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+俄罗斯成人2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+欧美1,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+欧美2,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 
 
 
