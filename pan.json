@@ -6,7 +6,7 @@ https://raw.fastgit.org/py63694430/pan/main/jar/p.jar;md5;43696497A097D730BCCD3C
 {"key":"csp_Lezhu","name":"乐猪影视〔SP〕","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
 {"key":"csp_Bdys","name":"哔嘀影视〔SP〕","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "BuLei","name": "不雷〔SP〕","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
-{"key": "csp_AppTT","name": "图图〔SP〕","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://124.248.66.107:9911","jar":"https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
+{"key": "csp_AppTT","name": "图图〔SP〕","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://124.248.66.107:9955","jar":"https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
 {"key":"csp_Xinsj","name":"新视觉〔SP〕","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "LiteApple","name": "小苹果〔SP〕","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
 {"key":"csp_Kunyu77","name":"七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
