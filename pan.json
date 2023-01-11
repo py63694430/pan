@@ -3,12 +3,12 @@
 https://raw.fastgit.org/py63694430/pan/main/jar/p.jar;md5;43696497A097D730BCCD3C5F285E0E80",
 "sites":[
 {"key":"csp_biubiu_骚火电影","name":"主页","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/py63694430/pan/main/saohuo.json"},
-{"key":"csp_Lezhu","name":"乐猪影视〔SP〕","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://raw.fastgit.org/py63694430/pan/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
+{"key":"csp_Lezhu","name":"乐猪影视〔SP〕","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
 {"key":"csp_Bdys","name":"哔嘀影视〔SP〕","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "BuLei","name": "不雷〔SP〕","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.fastgit.org/py63694430/pan/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
-{"key": "csp_AppTT","name": "图图〔SP〕","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://124.248.66.107:9911","jar":"https://raw.fastgit.org/py63694430/pan/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
+{"key": "BuLei","name": "不雷〔SP〕","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
+{"key": "csp_AppTT","name": "图图〔SP〕","type": 3,"api": "csp_AppTT","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://124.248.66.107:9911","jar":"https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
 {"key":"csp_Xinsj","name":"新视觉〔SP〕","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "LiteApple","name": "小苹果〔SP〕","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.fastgit.org/py63694430/pan/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
+{"key": "LiteApple","name": "小苹果〔SP〕","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
 {"key":"csp_Kunyu77","name":"七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name": "农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},
 {"key":"csp_Kuaikan","name":"快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -27,15 +27,15 @@ https://raw.fastgit.org/py63694430/pan/main/jar/qj.jar;md5;710DE0F5AC1ABE0182967
 https://raw.fastgit.org/py63694430/pan/main/jar/qj.jar;md5;710DE0F5AC1ABE0182967821DCD48439"},
 
 {"key": "Gitcafe","name": "小纸条〔SP〕","type": 3,"api": "csp_Paper","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ali.饭太硬.ml/tok","jar":"
-https://raw.fastgit.org/py63694430/pan/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
+https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
 {"key": "zhaozy","name": "找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://ali.饭太硬.ml/tok","jar":"
-https://raw.fastgit.org/py63694430/pan/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
+https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
 {"key": "AliPS","name": "盘搜(仅搜索)","type":3,"api":"csp_PanSou","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "http://ali.饭太硬.ml/tok","jar":"
-https://raw.fastgit.org/py63694430/pan/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
+https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
 {"key": "Yisou","name": "一搜(仅搜索)","type":3,"api":"csp_YiSo","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext": "http://ali.饭太硬.ml/tok","jar":"
-https://raw.fastgit.org/py63694430/pan/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
+https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
 {"key": "Upyunso","name": "云搜(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "http://ali.饭太硬.ml/tok","jar":"
-https://raw.fastgit.org/py63694430/pan/main/jar/cc.jar;md5;8912c907f7381dd4e39802637b71f2e5"},
+https://raw.fastgit.org/py63694430/pan/main/jar/fty0107.jar;md5;8FA5D0E7CCA3F9373D200B90D5808E50"},
 
 {"key":"drpy_js_乐猪TV","name":"乐猪TV[js]","type":3,"api":"https://raw.fastgit.org/py63694430/pan/main/lib/drpy.min.js","ext":"https://raw.fastgit.org/py63694430/pan/main/%E4%B9%90%E7%8C%AATV.js"},
 {"key":"drpy_js_骚火影视","name":"骚火影视[js]","type":3,"api":"https://raw.fastgit.org/py63694430/pan/main/lib/drpy.min.js","ext":"https://raw.fastgit.org/py63694430/pan/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.js"},
