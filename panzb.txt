@@ -1,6 +1,7 @@
 💖常看,#genre#
 凤凰卫视中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+CCTV13,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
 CCTV13,http://datou.work/bestv.php?id=cctv13xwhd8m/8000000
 CCTV1,http://datou.work/gehua.php?id=cctv1hd
 CCTV2,http://datou.work/gehua.php?id=cctv2hd
@@ -56,7 +57,7 @@ CCTV17,http://datou.work/gehua.php?id=cctv17hd
 西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
 
 
-CCTV13,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+
 CCTV1,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV2,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 CCTV3,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
