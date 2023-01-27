@@ -153,7 +153,7 @@ CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 CCTV-4K,https://www.whalenas.com/bestv/index.php?id=cctv4k/15000000
 爱上4K,https://live.v1.mk/aishang/as4k
 欢笑剧场4k,https://www.whalenas.com/bestv/index.php?id=hxjc4k/15000000
-欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+欢笑剧场4k,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 
 CCTV13,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
 CCTV1,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
@@ -226,7 +226,7 @@ CCTV4,https://live.v1.mk/aishang/cctv4hd
 CCTV5https://live.v1.mk/aishang/cctv5hd
 CCTV5+,https://live.v1.mk/aishang/cctv5p
 CCTV6,https://live.v1.mk/aishang/cctv6hd
-CCTV7事,https://live.v1.mk/aishang/cctv7hd
+CCTV7,https://live.v1.mk/aishang/cctv7hd
 CCTV8,https://live.v1.mk/aishang/cctv8hd
 CCTV9,https://live.v1.mk/aishang/cctv9hd2
 CCTV10,https://live.v1.mk/aishang/cctv10hd
