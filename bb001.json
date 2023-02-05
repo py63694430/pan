@@ -82,7 +82,7 @@
 ],
 
 //填写电视直播的接口链接
-"dianshizhibo": "https://raw.iqiq.io/py63694430/pan/main/panzb.txt",
+"dianshizhibo": "https://raw.fastgit.org/py63694430/pan/main/panzb.txt",
 //填写播放地址过滤规则，中间用#号分割，不用填太多，默认的基本够用，主要是针对自定义的网站过滤的。
 "guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#auth_#cnzz.com",
 
