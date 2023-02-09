@@ -10,7 +10,6 @@ CCTV4欧洲,http://live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTEN
 CCTV5,http://live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV5,http://live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV5+,http://live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-五星体育,http://cfss.cc/ds/bst.php?id=Cf-54
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 CCTV6,http://live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -453,97 +452,6 @@ NewTV金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 江西经济生活,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 
-📺8M专区,#genre#
-CCTV-4K,http://cfss.cc/ds/bst.php?id=Cf-0
-CCTV-1 8M,http://cfss.cc/ds/bst.php?id=Cf-1
-CCTV-2 8M,http://cfss.cc/ds/bst.php?id=Cf-2
-CCTV-3 8M,http://cfss.cc/ds/bst.php?id=Cf-3
-CCTV-4 8M,http://cfss.cc/ds/bst.php?id=Cf-4
-CCTV-5 8M,http://cfss.cc/ds/bst.php?id=Cf-5
-CCTV-5+ 8M,http://cfss.cc/ds/bst.php?id=Cf-6
-CCTV-6 8M,http://cfss.cc/ds/bst.php?id=Cf-7
-CCTV-7 8M,http://cfss.cc/ds/bst.php?id=Cf-8
-CCTV-8 8M,http://cfss.cc/ds/bst.php?id=Cf-9
-CCTV-9 8M,http://cfss.cc/ds/bst.php?id=Cf-10
-CCTV-10 8M,http://cfss.cc/ds/bst.php?id=Cf-11
-CCTV-11 8M,http://cfss.cc/ds/bst.php?id=Cf-12
-CCTV-12 8M,http://cfss.cc/ds/bst.php?id=Cf-13
-CCTV-13 8M,http://cfss.cc/ds/bst.php?id=Cf-14
-CCTV-14 8M,http://cfss.cc/ds/bst.php?id=Cf-15
-CCTV-15 8M,http://cfss.cc/ds/bst.php?id=Cf-16
-CCTV-16 8M,http://cfss.cc/ds/bst.php?id=Cf-17
-CCTV-17 8M,http://cfss.cc/ds/bst.php?id=Cf-18
-CCTV-16 4K,http://cfss.cc/ds/bst.php?id=Cf-19
-江苏卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-20
-广西卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-21
-四川卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-22
-上海卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-23
-湖南卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-24
-浙江卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-25
-北京卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-26
-天津卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-27
-辽宁卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-28
-安徽卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-29
-广东卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-30
-深圳卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-31
-湖北卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-32
-吉林卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-33
-山东卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-34
-江西卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-35
-河南卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-36
-河北卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-37
-甘肃卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-38
-重庆卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-39
-东南卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-40
-云南卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-41
-贵州卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-42
-海南卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-43
-黑龙江卫视 8M,http://cfss.cc/ds/bst.php?id=Cf-44
-欢笑剧场4k,http://cfss.cc/ds/bst.php?id=Cf-45
-欢笑剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-46
-快乐垂钓 8M,http://cfss.cc/ds/bst.php?id=Cf-47
-金鹰纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-48
-戏曲精选 8M,http://cfss.cc/ds/bst.php?id=Cf-49
-上视新闻 8M,http://cfss.cc/ds/bst.php?id=Cf-50
-上海都市 8M,http://cfss.cc/ds/bst.php?id=Cf-51
-上海纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-52
-东方影视 8M,http://cfss.cc/ds/bst.php?id=Cf-53
-五星体育 8M,http://cfss.cc/ds/bst.php?id=Cf-54
-上视外语 8M,http://cfss.cc/ds/bst.php?id=Cf-55
-七彩戏剧 8M,http://cfss.cc/ds/bst.php?id=Cf-56
-上海教育 8M,http://cfss.cc/ds/bst.php?id=Cf-57
-全纪实 8M,http://cfss.cc/ds/bst.php?id=Cf-58
-生活时尚 8M,http://cfss.cc/ds/bst.php?id=Cf-59
-新视觉 8M,http://cfss.cc/ds/bst.php?id=Cf-60
-游戏风云 8M,http://cfss.cc/ds/bst.php?id=Cf-61
-热门综艺 8M,http://cfss.cc/ds/bst.php?id=Cf-62
-超级体育 8M,http://cfss.cc/ds/bst.php?id=Cf-63
-健康养生 8M,http://cfss.cc/ds/bst.php?id=Cf-64
-百变课堂 8M,http://cfss.cc/ds/bst.php?id=Cf-65
-华语影院 8M,http://cfss.cc/ds/bst.php?id=Cf-66
-电竞天堂 8M,http://cfss.cc/ds/bst.php?id=Cf-67
-青春动漫 8M,http://cfss.cc/ds/bst.php?id=Cf-68
-宝宝动画 8M,http://cfss.cc/ds/bst.php?id=Cf-69
-星光影院 8M,http://cfss.cc/ds/bst.php?id=Cf-70
-谍战剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-71
-全球大片 8M,http://cfss.cc/ds/bst.php?id=Cf-72
-热门剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-73
-陶瓷高清 8M,http://cfss.cc/ds/bst.php?id=Cf-74
-中国教育-1 8M,http://cfss.cc/ds/bst.php?id=Cf-75
-中国教育-4 8M,http://cfss.cc/ds/bst.php?id=Cf-76
-卡酷少儿 8M,http://cfss.cc/ds/bst.php?id=Cf-77
-纪实科教 8M,http://cfss.cc/ds/bst.php?id=Cf-78
-茶频道 8M,http://cfss.cc/ds/bst.php?id=Cf-79
-足球高清 8M,http://cfss.cc/ds/bst.php?id=Cf-80
-炫动卡通 8M,http://cfss.cc/ds/bst.php?id=Cf-81
-东方财经 8M,http://cfss.cc/ds/bst.php?id=Cf-82
-都市剧场 8M,http://cfss.cc/ds/bst.php?id=Cf-83
-动漫秀场 8M,http://cfss.cc/ds/bst.php?id=Cf-84
-法治天地 8M,http://cfss.cc/ds/bst.php?id=Cf-85
-魅力足球 8M,http://cfss.cc/ds/bst.php?id=Cf-86
-上海第一财经 8M,http://cfss.cc/ds/bst.php?id=Cf-87
-看天下精选 8M,http://cfss.cc/ds/bst.php?id=Cf-88
-
 📺咪咕网,#genre#
 CCTV1综合HD,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?ProgramID=&encrypt=
 CCTV2财经HD,http://39.136.172.2/hlsztemgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?ProgramID=&encrypt=
@@ -720,18 +628,3 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 广东嘉佳卡通,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226601/index.m3u8
 江苏优漫卡通,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226606/index.m3u8
 4K,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-
-頻道,#genre#
-彩虹e台,P2p://generationnexxxt.com:19806/9a97004e2ba44dbe8c914dbeadee4b2f
-彩虹电影台,P2p://generationnexxxt.com:19806/3ef7a7fd87a449768196614c6433b080
-看电视，P2p://generationnexxxt.com:19806/22344863fe414c439c9308b4aa2c4d3d
-潘朵拉玩美台,P2p://generationnexxxt.com:19806/95a3bc8a9acc421eb9469b4c13353028
-惊艳成人电影台,P2p://generationnexxxt.com:19806/d50084be17bd4adc8857dbd9e9ebbf25
-松视1台,P2p://generationnexxxt.com:19806/036970456a824a099a71595b6baf3921
-松视2台,P2p://generationnexxxt.com:19806/966ca0ffb710420ca2544fd6cdf1097f
-花花公子，P2p://generationnexxxt.com:19806/082597a99d8247a3a791f44314cdb233
-香草台,P2p://generationnexxxt.com:19806/7523ece4707041c3a7aeb64c26aec183
-松视3台,P2p://generationnexxxt.com:19806/b8f8ad4e4b8847b289491374ddebe9fd
-JStar极限台,P2p://generationnexxxt.com:19806/3dae125a616947bfbfbbb303f9223f64
-快乐，P2p://generationnexxxt.com:19806/56b9936bf2284a8c8ba7717b0f2cbe24
-K,P2p://generationnexxxt.com:19806/3f0ab1d712b24f2ab466ed283f8e7469
