@@ -721,5 +721,17 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 江苏优漫卡通,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226606/index.m3u8
 4K,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
-
-
+测试頻道_88,#genre#
+彩虹e台,P2p://generationnexxxt.com:19806/9a97004e2ba44dbe8c914dbeadee4b2f
+彩虹电影台,P2p://generationnexxxt.com:19806/3ef7a7fd87a449768196614c6433b080
+看电视，P2p://generationnexxxt.com:19806/22344863fe414c439c9308b4aa2c4d3d
+潘朵拉玩美台,P2p://generationnexxxt.com:19806/95a3bc8a9acc421eb9469b4c13353028
+惊艳成人电影台,P2p://generationnexxxt.com:19806/d50084be17bd4adc8857dbd9e9ebbf25
+松视1台,P2p://generationnexxxt.com:19806/036970456a824a099a71595b6baf3921
+松视2台,P2p://generationnexxxt.com:19806/966ca0ffb710420ca2544fd6cdf1097f
+花花公子，P2p://generationnexxxt.com:19806/082597a99d8247a3a791f44314cdb233
+香草台,P2p://generationnexxxt.com:19806/7523ece4707041c3a7aeb64c26aec183
+松视3台,P2p://generationnexxxt.com:19806/b8f8ad4e4b8847b289491374ddebe9fd
+JStar极限台,P2p://generationnexxxt.com:19806/3dae125a616947bfbfbbb303f9223f64
+快乐，P2p://generationnexxxt.com:19806/56b9936bf2284a8c8ba7717b0f2cbe24
+K,P2p://generationnexxxt.com:19806/3f0ab1d712b24f2ab466ed283f8e7469
