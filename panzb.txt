@@ -721,7 +721,7 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 江苏优漫卡通,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226606/index.m3u8
 4K,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
-頻道_88,#genre#
+頻道,#genre#
 彩虹e台,P2p://generationnexxxt.com:19806/9a97004e2ba44dbe8c914dbeadee4b2f
 彩虹电影台,P2p://generationnexxxt.com:19806/3ef7a7fd87a449768196614c6433b080
 看电视，P2p://generationnexxxt.com:19806/22344863fe414c439c9308b4aa2c4d3d
