@@ -45,7 +45,6 @@
 
 {"key": "drpy_js_哔嘀影视","name": "哔嘀影视[js]","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/lib/drpy.min.js","ext": "https://fastly.jsdelivr.net/gh/py63694430/pan/main/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.js"},
 {"key": "drpy_js_360影视","name": "360影视[js]","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/lib/drpy.min.js","ext": "https://fastly.jsdelivr.net/gh/py63694430/pan/main/360%E5%BD%B1%E8%A7%86.js"},
-、
 {"key": "drpy_js_酷云77","name": "酷云77[js]","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/lib/drpy.min.js","ext": "https://fastly.jsdelivr.net/gh/py63694430/pan/main/%E9%85%B7%E4%BA%9177.js"},
 {"key":"csp_XPath_94sm","name":"94神马(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://fastly.jsdelivr.net/gh/py63694430/pan/main/94sm.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪影视(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://fastly.jsdelivr.net/gh/py63694430/pan/main/lezhu.json"},
