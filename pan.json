@@ -18,9 +18,9 @@
 {"key":"csp_Vofl","name":"🎈Vofl┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"DNSP_spider","name":"💥酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996","jar":"https://panyuxi.asuscomm.com:444/AICLOUD1202387686/qtcqj.jar;md5;2990BF00E9089CE3837839CB524685E6"},
-{"key":"百影视频","name":"💥百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://panyuxi.asuscomm.com:444/AICLOUD1202387686/qtcqj.jar;md5;2990BF00E9089CE3837839CB524685E6"},
-{"key":"360_spider","name":"💥360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://panyuxi.asuscomm.com:444/AICLOUD1202387686/qtcqj.jar;md5;2990BF00E9089CE3837839CB524685E6"},
+{"key":"DNSP_spider","name":"💥酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996","jar":"https://panyuxi.asuscomm.com:444/AICLOUD1822527385/qj2354.jar;md5;6c68e5f9757d1c0e4d5dd966a4adaa01"},
+{"key":"百影视频","name":"💥百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://panyuxi.asuscomm.com:444/AICLOUD1822527385/qj2354.jar;md5;6c68e5f9757d1c0e4d5dd966a4adaa01"},
+{"key":"360_spider","name":"💥360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://panyuxi.asuscomm.com:444/AICLOUD1822527385/qj2354.jar;md5;6c68e5f9757d1c0e4d5dd966a4adaa01"},
 
 {"key":"csp_Smdyy","name":"🐴神马┃直连","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
