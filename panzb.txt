@@ -9,14 +9,12 @@ CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
 CCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 CCTV5,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
 CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,https://epg.pw/stream/525681e8ceaed83b3702016a446a1f591bdc7f934e0e8bd76a34d9504456f961.ctv
 五星体育,https://epg.pw/stream/df41c804615d03d89910784fa9bbc27c479607f641f5c7bf9221e26776713c37.m3u8
-五星体育,https://epg.pw/stream/4ff73dc4b4b44f28dba7db1559e815e2f04be67dd4d7bfa87a965cba178ac4a9.ctv
-五星体育,https://epg.pw/stream/bbd21ea4becd4d0be86f153db32fe7f615a2353e0c1224cf11b4489c26b3811c.m3u8
 五星体育,https://epg.pw/stream/9c8e2654ab3b6187fcffbf1f65f78541637eb7e6ddf3d1a25deed38b1d1099ce.m3u8
 五星体育,https://epg.pw/stream/8e81b75b80270cbecf0e63afb9dbee125cbc4f52dcc1ab324678f8d8fa96ffe7.m3u8
 五星体育,https://epg.pw/stream/a0bb578cfddb51064c021d2aa4de2691a0def109b730576de751d1dcf4902bdd.ctv
-五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 CCTV7,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
 CCTV8,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
