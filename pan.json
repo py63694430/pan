@@ -1,5 +1,5 @@
 {
-"spider":""spider":"https://raw.iqiq.io/py63694430/pan/main/jar/fan.txt;md5;F8F76C056BD4F099A4B545173B16AC2E",
+"spider":"https://raw.iqiq.io/py63694430/pan/main/jar/fan.txt;md5;F8F76C056BD4F099A4B545173B16AC2E",
 "sites":[
 {"key": "农民影视","name": "主页","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.cainisi.cf/json/XBPQ/农民影视.json"},
 {"key": "js豆瓣","name": "💥豆瓣推荐","type": 3,"api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext": "http://v.tvfan.top:88/tvbox/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
