@@ -286,10 +286,6 @@ CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playl
 CHC动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 CHC高清电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 CHC高清电影,http://222.132.191.125:9901/tsfile/live/1010_1.m3u8
-动作影院,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240277_1/playlist.m3u8?CONTENTID=00000110240277_1
-喜剧影院,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240276_1/playlist.m3u8?CONTENTID=00000110240276_1
-家庭影院,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240278_1/playlist.m3u8?CONTENTID=00000110240278_1
-武侠剧场,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240308_1/playlist.m3u8?CONTENTID=00000110240308_1
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8$高清1080P
 
 
@@ -305,6 +301,7 @@ CCTV3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u
 CCTV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8?
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8?
+CCTV-5+,https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
 CCTV5+,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225649/2/index.m3u8
 上海五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?
 上海五星体育,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001018/1.m3u8
