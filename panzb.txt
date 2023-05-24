@@ -712,7 +712,7 @@ IPTV芒果热播,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001
 爱体育,http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt
 爱探索,http://[2409:8087:3869:8021:1001::42]:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
 
-🔞大人节目_2023,#genre#
+大人节目_2023,#genre#
 白虎精彩瞬间合集,https://n370amhhas.sdluquan.com/20200426/fVqzPSTD/index.m3u8?300
 清纯白虎酷似万绮雯,https://video47.zdavsp.com/video/20230205/afe3b52f7c4d2b1a74c59baf294f8e57/index.m3u8
 白虎之无毛黄瓜茄子,https://n370amhhas.sdluquan.com/20200226/YAcSNt1U/index.m3u8
@@ -869,7 +869,7 @@ JK萝莉白虎,https://0yefiks35y.motorjn.com/20220907/xpSbp7eC/index.m3u8
 出中升带回家,https://yanxuan.nosdn.127.net/10c05307371350cc2eb438d444ce1f54.m3u8
 
 
-🌏国外直播🔞_2023,#genre#
+国外直播_2023,#genre#
 爆乳 720,http://cdn.adultiptv.net/bigtits.m3u8
 粗暴 720,http://cdn.adultiptv.net/rough.m3u8
 大奶,http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
