@@ -1,5 +1,5 @@
 {
-"spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/py63694430/pan/main/jar/fan.txt;md5;07099ea7d907106be7990ad9db491f2a",
+"spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/py63694430/pan/main/jar/fan.txt;md5;8e5f048383b35728c4f1bb21c708c0c7",
 "sites":[
 {"key": "农民影视","name": "主页","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/p63694430/beifen/raw/master/nm.json"},
 {"key":"js豆瓣","name":"🅱豆瓣推荐","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
@@ -9,7 +9,7 @@
  { "key":"drpy_js_花猫TV", "name":"花猫TV┃影视", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/花猫TV.js" },
  { "key":"drpy_js_达达龟", "name":"达达龟┃影视", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/达达龟.js" },
  {"key": "drpy_js_FreeOK","name": "FreeOK[js]","type": 3,"api": "https://xhdwc.tk/lib/drpy2.min.js","ext": "https://xhdwc.tk/js/FreeOK.js"},
-{"key": "多米","name": "多米┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.dmdh.top:5680//api.php/app/"},
+{"key": "多米","name": "多米┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://v.dmdh.top:5680//api.php/app/"},
 {"key": "HDMOLI","name": "😎HDMOLI","api": "csp_HDMOLI","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/py63694430/pan/main/jar/fix0516.jar;md5;4c6366c0605d544297ee621109eb36a4"},
 {"key":"csp_AppTT","name":"🐰图图┃APP","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_BuLei","name":"💢布雷┃直连","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.bulei.cc/$$$auto$$$13771008373$$$py19830504"},
@@ -64,11 +64,14 @@
 {"key":"csp_XYQHiker皮皮鸭","name":"️🌸皮皮鸭┃嗅探","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ga/x/XYQ/皮皮鸭.json"},
 {"key":"csp_XBPQ_4K","name":"🌸4K影院┃嗅探","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://饭太硬.ga/x/xbpq/4K影院.json"},
 {"key":"360影视","name":"360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/XBPQ/360影视.json"},
+{ "key":"量子", "name":"量子", "type":"0", "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/", "searchable":"1", "changeable":"1", "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"] },
+{ "key":"非凡", "name":"非凡", "type":"0", "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/", "searchable":"1", "changeable":"1", "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"] },
+{ "key":"熊熊", "name":"熊熊", "type":"1", "api":"https://v.3412.net.cn/macapi.php/provide/vod", "playUrl":"https://player.3412.net.cn/?url=", "searchable":"1", "changeable":"1" },
 {"key":"csp_SP33","name":"📺三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"Qtv","name":"🐧腾腾┃解析","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
 {"key":"Itv","name":"🥝爱爱┃解析","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
 {"key":"Mtv","name":"🍋芒芒┃解析","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key": "玩偶","name": "采集","type": 3,"api": "csp_Doll","searchable": 1,"filterable": 1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;d255d424916b37d2329cbfd8dd8b2119"},
+{"key": "玩偶","name": "采集","type": 3,"api": "csp_Doll","searchable": 1,"filterable": 1,"jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"},
 {"key":"CK资源","name":"CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0},
 {"key": "推送","name": "推送","type":3,"api":"csp_push","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext": "https://hub.gitmirror.com//https://raw.githubusercontent.com/py63694430/pan/main/token.txt"}],
 
