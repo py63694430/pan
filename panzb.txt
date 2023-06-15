@@ -9,11 +9,7 @@ CCTV5+,http://www.yiyibest.com:7777/udp/239.49.8.18:9610
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://39.134.136.160:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-五星体育,https://epg.pw/stream/525681e8ceaed83b3702016a446a1f591bdc7f934e0e8bd76a34d9504456f961.ctv
-五星体育,https://epg.pw/stream/df41c804615d03d89910784fa9bbc27c479607f641f5c7bf9221e26776713c37.m3u8
-五星体育,https://epg.pw/stream/9c8e2654ab3b6187fcffbf1f65f78541637eb7e6ddf3d1a25deed38b1d1099ce.m3u8
-五星体育,https://epg.pw/stream/8e81b75b80270cbecf0e63afb9dbee125cbc4f52dcc1ab324678f8d8fa96ffe7.m3u8
-五星体育,https://epg.pw/stream/a0bb578cfddb51064c021d2aa4de2691a0def109b730576de751d1dcf4902bdd.ctv
+五星体育,https://cntv.sbs/live?auth=230612&id=wxty
 CCTV6,http://www.yiyibest.com:7777/udp/239.49.9.33:6000
 CCTV7,http://www.yiyibest.com:7777/udp/239.49.9.81:6000
 CCTV8,http://www.yiyibest.com:7777/udp/239.49.9.34:6000
