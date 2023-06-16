@@ -1,4 +1,9 @@
 📺全网,#genre#
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰中文,http://103.112.191.9:880/LAOSAT1015.m3u8
+凤凰中文,http://lu1.cc/itv/gatv/fhx.php?id=fhzw
+凤凰资讯,http://lu1.cc/itv/gatv/fhx.php?id=fhzx
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 CCTV1,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv1hd8m/8000000
 CCTV2,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv2hd8m/8000000
 CCTV3,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=cctv38m/8000000
