@@ -1,9 +1,11 @@
 {
-"spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/py63694430/pan/main/jar/fan.txt;md5;a4c63fe74439b399ccd4eaaf4c639588",
+"spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/py63694430/pan/main/jar/fan.txt;md5;aa645ef076aff7c6b3b3239ee85a87c1",
 "sites":[
 {"key": "农民影视","name": "主页","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/p63694430/beifen/raw/master/nm.json"},
 {"key":"js豆瓣","name":"🅱豆瓣推荐","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key": "酷酷","name": "💡酷酷┃App","type": 3,"api": "csp_AppYsV2","ext": "http://ys.realdou.cn/api.php/app/","categories": ["4K电影","4K电视剧"]},
+{"key": "探探","name": "🏵探探┃App","type": 3,"api": "csp_YT","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "迪迪","name": "😎迪迪┃App","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
 {"key": "乐猪TV","name": "🐷乐猪影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tvbox.cainisi.cf/json/XBPQ/乐猪TV.json"},
 { "key":"drpy_js_花猫TV", "name":"🔥花猫影视", "type":3, "api":"https://xhdwc.tk/lib/drpy2.min.js", "ext":"https://xhdwc.tk/js/花猫TV.js" },
 {"key": "虎虎","name": "🔥虎虎影视","type": 3,"api": "csp_XBPQ","ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/py63694430/pan/main/huhu.json"},
@@ -58,7 +60,6 @@
 {"key":"360影视","name":"360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tvbox.cainisi.cf/json/XBPQ/360影视.json"},
 { "key":"量子", "name":"量子", "type":"0", "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/", "searchable":"1", "changeable":"1", "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"] },
 { "key":"非凡", "name":"非凡", "type":"0", "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/", "searchable":"1", "changeable":"1", "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"] },
-{ "key":"熊熊", "name":"熊熊", "type":"1", "api":"https://v.3412.net.cn/macapi.php/provide/vod", "playUrl":"https://player.3412.net.cn/?url=", "searchable":"1", "changeable":"1" },
 {"key":"csp_SP33","name":"📺三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"Qtv","name":"🐧腾腾┃解析","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
 {"key":"Itv","name":"🥝爱爱┃解析","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
@@ -148,3 +149,4 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
