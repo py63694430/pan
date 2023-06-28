@@ -10,6 +10,7 @@ CCTV5,http://39.134.61.218/PLTV/88888888/224/3221226944/index.m3u8
 CCTV5+,http://39.134.61.218/PLTV/88888888/224/3221227092/index.m3u8
 CCTV5+,http://39.134.61.218/PLTV/88888888/224/3221226912/index.m3u8
 五星体育,http://iptvrr2.sh.chinamobile.com:6060/cms001/ch00000090990000001018/1.m3u8?
+五星体育,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://www.happyspace.party:4022/udp/239.45.3.210:5140
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://39.134.136.160:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
