@@ -16,8 +16,11 @@ CCTV9,http://itstar.top:4000/rtp/239.49.8.53:9814
 CCTV9,http://itstar.top:4000/rtp/239.49.8.133:6000
 CCTV10,http://itstar.top:4000/rtp/239.49.8.54:9818
 CCTV10,http://itstar.top:4000/rtp/239.49.8.134:6000
-CCTV11,http://itstar.top:4000/rtp/239.49.1.11:6000
-CCTV11,http://itstar.top:4000/rtp/239.49.0.11:8080
+CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
+CCTV11,http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
+CCTV11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
+CCTV11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8?
+CCTV11,http://125.210.152.19:9120/live/hzgq-cctv11gq-h264.m3u8
 CCTV12,http://itstar.top:4000/rtp/239.49.8.55:9822
 CCTV12,http://itstar.top:4000/rtp/239.49.8.135:6000
 CCTV13,http://itstar.top:4000/rtp/239.49.9.43:6000
@@ -170,11 +173,7 @@ CCTV10,http://125.210.152.19:9120/live/hzgq-cctv10gq-h264.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV10,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV10,http://221.213.43.82:8888/newlive/live/hls/12/live.m3u8
-CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
-CCTV11,http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
-CCTV11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
-CCTV11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8?
-CCTV11,http://125.210.152.19:9120/live/hzgq-cctv11gq-h264.m3u8
+
 CCTV12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8?
 CCTV12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8?
 CCTV12,http://221.213.43.82:8888/newlive/live/hls/14/live.m3u8
