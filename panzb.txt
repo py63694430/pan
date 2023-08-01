@@ -16,6 +16,7 @@ CCTV9,http://itstar.top:4000/rtp/239.49.8.53:9814
 CCTV9,http://itstar.top:4000/rtp/239.49.8.133:6000
 CCTV10,http://itstar.top:4000/rtp/239.49.8.54:9818
 CCTV10,http://itstar.top:4000/rtp/239.49.8.134:6000
+CCTV11,http://jtmi.vip:10000/udp/239.81.0.229:4056
 CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
 CCTV11,http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
 CCTV11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
