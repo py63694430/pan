@@ -1,5 +1,5 @@
 {
-"spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/py63694430/pan/main/jar/fan.txt;md5;6fb0a205b857f35e165a5f8cb2f8056d",
+"spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/py63694430/pan/main/jar/fan.txt;md5;18b8df1e0f7813098c1e70979a264aad",
 "sites":[
 {"key": "农民影视","name": "主页","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/p63694430/beifen/raw/master/nm.json"},
 {"key":"js豆瓣","name":"🅱豆瓣推荐","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
