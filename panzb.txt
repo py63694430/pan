@@ -6,8 +6,8 @@ CCTV2,http://itstar.top:4000/rtp/239.49.8.130:6000
 CCTV3,http://itstar.top:4000/rtp/239.49.9.31:6000
 CCTV4,http://itstar.top:4000/rtp/239.49.8.51:9806
 CCTV4,http://itstar.top:4000/rtp/239.49.8.131:6000
-CCTV5,http://itstar.top:4000/rtp/239.49.8.18:9610
 CCTV5,http://itstar.top:4000/rtp/239.49.9.32:6000
+CCTV5,http://itstar.top:4000/rtp/239.49.8.18:9610
 CCTV5+,http://itstar.top:4000/rtp/239.49.8.137:6000
 CCTV6,http://itstar.top:4000/rtp/239.49.9.33:6000
 CCTV7,http://itstar.top:4000/rtp/239.49.8.52:9810
