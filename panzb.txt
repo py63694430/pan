@@ -1,4 +1,6 @@
 📺全网,#genre#
+凤凰卫视中文台,https://pull-l3-activity.ixigua.com/live/YesLiveTV-96623005-48a9-4354-9e0d-79ab99e6e600.m3u8
+凤凰卫视资讯台,https://pull-l3-activity.ixigua.com/live/YesLiveTV-64a9aa00-9082-439c-bb8f-cbb58d29c297.m3u8
 CCTV1,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
