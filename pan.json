@@ -85,8 +85,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
-    }
-  ],
+    },
 {"key": "玩偶","name": "采集1","type": 3,"api": "csp_Doll","searchable": 1,"filterable": 1,"jar":"https://gitee.com/p63694430/beifen/raw/master/bao/custom_spider.jar;md5;b2c6912d5489526425cc71c596f4606e"},
 {"key":"CK资源","name":"CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0},
 {"key": "推送","name": "推送","type":3,"api":"csp_push","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext": "https://gitee.com/p63694430/beifen/raw/master/bao/token.txt"}],
