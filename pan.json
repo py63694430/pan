@@ -1,5 +1,5 @@
 {
-"spider":"https://gitee.com/p63694430/beifen/raw/master/bao/fan.txt;md5;3eb3583bc70b80ec673d88397967dbec",
+"spider":"https://gitee.com/p63694430/beifen/raw/master/bao/fan.txt;md5;aabde6a8ab69185b3de13788799f5f53",
 "sites":[
 
 {"key":"豆豆","name":"🅱豆瓣推荐","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -11,6 +11,52 @@
 
 { "key":"drpy_js_荐片", "name":"💥荐片[js]", "type":3, "api":"https://gitee.com/p63694430/beifen/raw/master/js/lib/drpy2.min.js", "ext":"https://gitee.com/p63694430/beifen/raw/master/js/js/%E8%8D%90%E7%89%87.js", "playerType":"1" },
 
+{
+			"key": "玉米",
+			"name": "🌽玉米┃采集",
+			"type": 0,
+			"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
+			"playUrl": "json:https://www.qiaoji8.com/tvbox/json.php?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+
+		{
+			"key": "爱看",
+			"name": "❤️爱看┃BPQ",
+			"type": 3,
+			"jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;9d8dd0772f214960fa8bfb0184e98644",
+			"api": "csp_XBPQ",
+			"ext": {
+				"主页url": "https://www.3ayy.com",
+				"简介": "module-info-introduction\">&&</p>",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"影片类型": "module-info-tag\">&&立即播放",
+				"影片状态": "集数：&&</div>",
+				"数组": "<a&&module-poster-item-info\"[不包含:夸克]",
+				"标题": "title=\"&&\"",
+				"副标题": "note\">&&</div>",
+				"嗅探词": ".mp4#.m3u8",
+				"过滤词": "/player/#/index/",
+				"图片": "data-original=\"&&\"",
+				"播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+				"链接": "href=\"&&\"",
+				"搜索url": "https://www.3ayy.com/index.php/ajax/suggest.html?mid=1&wd={wd}",
+				"搜索模式": "1",
+				"搜索二次截取": "\"list\":[&&]",
+				"搜索数组": "{&&}",
+				"搜索标题": "\"name\":\"&&\"",
+				"搜索图片": "\"pic\":\"&&\"",
+				"搜索链接": "https://www.3ayy.com/video/+\"id\":&&,+.html",
+				"播放数组": "module-play-list-base\">&&</div>",
+				"播放标题": "<span>&&</span>",
+				"播放列表": "<a&&</a>",
+				"分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+			}
+		},
 
 {"key": "csp_XBP南坊","name": "💥南坊┃影视","type": 3,"api": "csp_XBPQ","jar": "https://gitee.com/p63694430/beifen/raw/master/bao/xiaomi.jar;md5;52a96f8841a0b952cbab5af9420be0f5","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"站名": "南坊影视","主页url": "https://www.nfapp.fun/appto/v1/home/cateData?id=1","请求头": "User-Agent$Dart/2.10 (dart:io)","二次截取": "\"data\"*[&&]","数组": "{&&}","图片": "\"vod_pic\"*\"&&\"[替换:mac>>http]","标题": "\"vod_name\"*\"&&\"","副标题": "\"vod_remarks\"*\"&&\"","链接": "https://www.nfapp.fun/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D","线路数组": "\"player_info\":{&&}","线路标题": "\"show\"*\"&&\"","导演": "vod_director\"*\"&&\"","主演": "vod_actor\"*\"&&\"","简介": "vod_blurb\"*\"&&\"","播放二次截取": "&&[替换]","播放数组": "urls*\\[&&\\]","播放列表": "{&&}","跳转播放链接": "\"url\"*\"&&\"","播放标题": "\"name\"*\"&&\"","跳转解析": "默认$空#主线[A]$http://110.42.2.247:880/analysis/json/?uid=2497&my=bgkmoqsuwBDILMPQU2&format=json&url=#主线[B]$http://110.42.3.71:5000/api/jiexi/xg?Key=IljsrKnj7T0M38IEWh&url=#主线[C]$https://wpjx.chanchuan.top/znjsonapi.php?url=","播放链接": "解析+\"url\"*\"&&\"","搜索url": "https://www.nfapp.fun/appto/v1/vod/getVodSearch?wd={wd}&page=1&type","分类url": "https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0t","分类": "电影$2#电视剧$1#综艺$4#动漫$3"}},
 
@@ -87,7 +133,7 @@
       "ext": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/market.json"
    ,"jar":"https://gitee.com/p63694430/beifen/raw/master/bao/fm.jar;md5;d0ae5fa6fb705a6c020f930a73f44714
 "},
-{"key": "玩偶","name": "采集1","type": 3,"api": "csp_Doll","searchable": 1,"filterable": 1,"jar":"https://gitee.com/p63694430/beifen/raw/master/bao/custom_spider.jar;md5;b2c6912d5489526425cc71c596f4606e"},
+{"key": "玩偶","name": "采集1","type": 3,"api": "csp_Doll","searchable": 1,"filterable": 1,"jar":"https://gitee.com/p63694430/beifen/raw/master/bao/custom_spider.jar"},
 {"key":"CK资源","name":"CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0},
 {"key": "推送","name": "推送","type":3,"api":"csp_push","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext": "https://gitee.com/p63694430/beifen/raw/master/bao/token.txt"}],
 
@@ -124,3 +170,4 @@
 
 "ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
 }
+
