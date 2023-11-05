@@ -306,6 +306,7 @@ CCTV3,http://116.235.25.53:7777//tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&a
 CCTV4,http://116.235.25.53:7777//tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://116.235.25.53:7777//tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://116.235.25.53:7777//tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://101.228.125.169:9901/tsfile/live/faacts/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://116.235.25.53:7777//tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://116.235.25.53:7777//tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://116.235.25.53:7777//tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
