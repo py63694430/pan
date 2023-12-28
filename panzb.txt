@@ -642,96 +642,56 @@ CETV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u
 生活时尚,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8?
 法治天地,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8?
 金色学堂,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8?
-CCTV1,https://live.goodiptv.club/api/sxg.php?id=CCTV1H265_4000
-CCTV2,https://live.goodiptv.club/api/sxg.php?id=CCTV2H265_4000
-CCTV3,https://live.goodiptv.club/api/sxg.php?id=CCTV3H265_4000
-CCTV4,https://live.goodiptv.club/api/sxg.php?id=CCTV4H265_4000
-CCTV5,https://live.goodiptv.club/api/sxg.php?id=CCTV5H265_4000
-CCTV5+,https://live.goodiptv.club/api/sxg.php?id=CCTV5plusH265_4000
-CCTV6,https://live.goodiptv.club/api/sxg.php?id=CCTV6H265_4000
-CCTV7,https://live.goodiptv.club/api/sxg.php?id=CCTV7H265_4000
-CCTV8,https://live.goodiptv.club/api/sxg.php?id=CCTV8H265_4000
-CCTV9,https://live.goodiptv.club/api/sxg.php?id=CCTV9H265_4000
-CCTV10,https://live.goodiptv.club/api/sxg.php?id=CCTV10H265_4000
-CCTV11,https://live.goodiptv.club/api/sxg.php?id=CCTV11H265_4000
-CCTV12,https://live.goodiptv.club/api/sxg.php?id=CCTV12H265_4000
-CCTV13,https://live.goodiptv.club/api/sxg.php?id=CCTVxw_4000
-CCTV14,https://live.goodiptv.club/api/sxg.php?id=CCTV14H265_4000
-CCTV15,https://live.goodiptv.club/api/sxg.php?id=CCTV15yyH265_4000
-CCTV16,https://live.goodiptv.club/api/sxg.php?id=CCTV16_4000
-CCTV164K,https://live.goodiptv.club/api/sxg.php?id=CCTV164K_8000
-CCTV17,https://live.goodiptv.club/api/sxg.php?id=CCTV17_4000
-CCTV4K,https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
-4K超高清电影,https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
-欢笑剧场4K,https://live.goodiptv.club/api/sxg.php?id=hxjc4k_8000
-安徽卫视,https://live.goodiptv.club/api/sxg.php?id=ahwsH265_4000
-北京卫视,https://live.goodiptv.club/api/sxg.php?id=bjwsH265_4000
-兵团卫视,https://live.goodiptv.club/api/sxg.php?id=btws_4000
-重庆卫视,https://live.goodiptv.club/api/sxg.php?id=cqwsH265_4000
-东方卫视,https://live.goodiptv.club/api/sxg.php?id=dfwsH265_4000
-东南卫视,https://live.goodiptv.club/api/sxg.php?id=dnwsfjwsH265_4000
-甘肃卫视,https://live.goodiptv.club/api/sxg.php?id=gsws_4000
-广东卫视,https://live.goodiptv.club/api/sxg.php?id=gdwsH265_4000
-广西卫视,https://live.goodiptv.club/api/sxg.php?id=gxws_4000
-贵州卫视,https://live.goodiptv.club/api/sxg.php?id=gzwsH265_4000
-海南卫视,https://live.goodiptv.club/api/sxg.php?id=hnws_4000
-河南卫视,https://live.goodiptv.club/api/sxg.php?id=hnws35_4000
-黑龙江卫视,https://live.goodiptv.club/api/sxg.php?id=hljwsH265_4000
-湖北卫视,https://live.goodiptv.club/api/sxg.php?id=hbwsH265_4000
-湖南卫视,https://live.goodiptv.club/api/sxg.php?id=hnwsH265_4000
-吉林卫视,https://live.goodiptv.club/api/sxg.php?id=jlwsH265_4000
-江苏卫视,https://live.goodiptv.club/api/sxg.php?id=jswsH265_4000
-江西卫视,https://live.goodiptv.club/api/sxg.php?id=jxwsH265_4000
-康巴卫视,https://live.goodiptv.club/api/sxg.php?id=kbwsH264_2000
-辽宁卫视,https://live.goodiptv.club/api/sxg.php?id=lnwsHDH264_4000
-内蒙古卫视,https://live.goodiptv.club/api/sxg.php?id=nmgws_4000
-山东教育卫视,https://live.goodiptv.club/api/sxg.php?id=sdjy_4000
-山东卫视,https://live.goodiptv.club/api/sxg.php?id=sdwsH265_4000
-山西卫视,https://live.goodiptv.club/api/sxg.php?id=sxws42_4000
-陕西卫视,https://live.goodiptv.club/api/sxg.php?id=sxws_4000
-深圳卫视,https://live.goodiptv.club/api/sxg.php?id=szwsH265_4000
-四川卫视,https://live.goodiptv.club/api/sxg.php?id=scwsH265_4000
-天津卫视,https://live.goodiptv.club/api/sxg.php?id=tjwsH265_4000
-西藏卫视,https://live.goodiptv.club/api/sxg.php?id=xzwsH264_2000
-云南卫视,https://live.goodiptv.club/api/sxg.php?id=ynws_4000
-浙江卫视,https://live.goodiptv.club/api/sxg.php?id=zjwsH265_4000
-CETV1,https://live.goodiptv.club/api/sxg.php?id=CETV1H264_4000
-CETV4,https://live.goodiptv.club/api/sxg.php?id=CETV4H264_2000
-CBN风尚生活,https://live.goodiptv.club/api/sxg.php?id=fssh_4000
-CBN每日影院,https://live.goodiptv.club/api/sxg.php?id=mryy_4000
-CBN幸福剧场,https://live.goodiptv.club/api/sxg.php?id=xfjc_4000
-CBN幸福娱乐,https://live.goodiptv.club/api/sxg.php?id=xfyl_4000
-CHC动作电影,https://live.goodiptv.club/api/sxg.php?id=wqCHCdzdyH265_4000
-CHC高清电影,https://live.goodiptv.club/api/sxg.php?id=lnwsCHCHDH265_4000
-CHC家庭影院,https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
-动漫秀场,https://live.goodiptv.club/api/sxg.php?id=yybbdmxcH265_4000
-都市剧场,https://live.goodiptv.club/api/sxg.php?id=yxfydsjcHDH265_4000
-法治天地,https://live.goodiptv.club/api/sxg.php?id=fztx_4000
-极速汽车,https://live.goodiptv.club/api/sxg.php?id=jsqcH265_4000
-纪实科教,https://live.goodiptv.club/api/sxg.php?id=bjjs_2000
-嘉佳卡通,https://live.goodiptv.club/api/sxg.php?id=jjkt_2000
-家庭理财,https://live.goodiptv.club/api/sxg.php?id=jtlc_4000
-江苏财富天下,https://live.goodiptv.club/api/sxg.php?id=cftx_4000
-金鹰纪实,https://live.goodiptv.club/api/sxg.php?id=jyjsHDH265_4000
-金鹰卡通,https://live.goodiptv.club/api/sxg.php?id=jykt_2000
-劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
-聚鲨环球精选,https://live.goodiptv.club/api/sxg.php?id=jshqjxHD_4000
-卡酷少儿,https://live.goodiptv.club/api/sxg.php?id=kkkt_4000
-快乐垂钓,https://live.goodiptv.club/api/sxg.php?id=fyzqklcdHDH265_4000
-乐游,https://live.goodiptv.club/api/sxg.php?id=qjsHDH265_4000
-梨园频道,https://live.goodiptv.club/api/sxg.php?id=ly_4000
-魅力足球,https://live.goodiptv.club/api/sxg.php?id=mlyy_4000
-七彩戏剧,https://live.goodiptv.club/api/sxg.php?id=qcxj_2000
-摄影频道,https://live.goodiptv.club/api/sxg.php?id=sy_4000
-生活时尚,https://live.goodiptv.club/api/sxg.php?id=shssH265_4000
-四海钓鱼,https://live.goodiptv.club/api/sxg.php?id=shdy_4000
-天元围棋,https://live.goodiptv.club/api/sxg.php?id=tywq_2000
-武术世界,https://live.goodiptv.club/api/sxg.php?id=wssj_4000
-先锋乒羽,https://live.goodiptv.club/api/sxg.php?id=xfpy_4000
-新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
-中央新影发现之旅,https://live.goodiptv.club/api/sxg.php?id=fxzl_2000
-中央新影老故事,https://live.goodiptv.club/api/sxg.php?id=lgs_2000
-中央新影中学生,https://live.goodiptv.club/api/sxg.php?id=zxs_4000
+CCTV-1 综合,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?
+CCTV-2 财经,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?
+CCTV-3 综艺,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001186/index.m3u8?
+CCTV-4 中文国际,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001221/index.m3u8?
+CCTV-5 体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001444/index.m3u8?
+CCTV-5+ 体育赛事,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-6 电影,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001188/index.m3u8?
+CCTV-7 国防军事,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001236/index.m3u8?
+CCTV-8 电视剧,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001189/index.m3u8?
+CCTV-9 记录,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001237/index.m3u8?
+CCTV-10 科教,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001238/index.m3u8?
+CCTV-11 戏曲,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001309/index.m3u8?
+CCTV-12 社会与法,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001239/index.m3u8?
+CCTV-13 新闻,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001328/index.m3u8?
+CCTV-14 少儿,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001240/index.m3u8?
+CCTV-15 音乐,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001338/index.m3u8?
+CCTV-16 奥林匹克,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001248/index.m3u8?
+CCTV-16 奥林匹克4K,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001258/index.m3u8?
+CCTV-17 农业农村,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001241/index.m3u8?
+CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
+CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+江苏卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?
+浙江卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001023/index.m3u8?
+湖南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?
+东方卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001442/index.m3u8?
+北京卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001029/index.m3u8?
+天津卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001036/index.m3u8?
+安徽卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001037/index.m3u8?
+山东卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001028/index.m3u8?
+四川卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001130/index.m3u8?
+重庆卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001129/index.m3u8?
+贵州卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001184/index.m3u8?
+广东卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001032/index.m3u8?
+深圳卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001030/index.m3u8?
+广西卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001224/index.m3u8?
+东南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001201/index.m3u8?
+江西卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001034/index.m3u8?
+河南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001222/index.m3u8?
+河北卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001229/index.m3u8?
+湖北卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001027/index.m3u8?
+黑龙江卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001031/index.m3u8?
+吉林卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001225/index.m3u8?
+辽宁卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001035/index.m3u8?
+海南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001183/index.m3u8?
+甘肃卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001298/index.m3u8?
+青海卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001450/index.m3u8?
+云南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
 CCTV1,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001022/1.m3u8
 CCTV1,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001398/1.m3u8
 CCTV2,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001220/1.m3u8
