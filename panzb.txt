@@ -145,21 +145,6 @@ BTV卡通,http://113.57.103.216:9000/tsfile/live/1001_1.m3u8?key=txiptv
 山西卫视,http://113.57.103.216:9000/tsfile/live/1009_1.m3u8?key=txiptv
 云南卫视,http://113.57.103.216:9000/tsfile/live/1010_1.m3u8?key=txiptv
 
-NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-NewTV潮妈辣婆,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-NewTV精品体育,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-NewTV精品萌宠,http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
-NewTV爱情喜剧,http://ott.mobaibox.com/PLTV/4/224/3221227548/index.m3u8
-NewTV爱情喜剧,http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-NewTV精品纪录,http://ott.mobaibox.com/PLTV/4/224/3221227547/index.m3u8
-NewTV金牌综艺,http://ott.mobaibox.com/PLTV/4/224/3221227541/index.m3u8
-NewTV潮妈辣婆,http://ott.mobaibox.com/PLTV/4/224/3221227527/index.m3u8
-NewTV古装剧场,http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
-NewTV精品大剧,http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-NewTV明星大片,http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-NewTV精品大剧,http://ott.mobaibox.com/PLTV/4/224/3221227618/index.m3u8
-NewTV精品纪录,http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-NewTV军事评论,http://ott.mobaibox.com/PLTV/4/224/3221227544/index.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
