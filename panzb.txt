@@ -54,8 +54,6 @@ CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
-CCTV13,https://pi.0472.org/tv/mzt.php?auth=230918
-CCTV13,https://pi.0472.org/tv/fct.php?auth=231110
 CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV15,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227933/index.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
