@@ -33,7 +33,17 @@ CCTV17,http://223.151.51.21:85/tsfile/live/0007_1.m3u8?by=angtv&?key=txiptv
 贵州卫视,http://test.agtv.xyz/jd/hncd.php?id=gzws
 黑龙江卫视,http://test.agtv.xyz/jd/hncd.php?id=hlws
 江西卫视,http://test.agtv.xyz/jd/hncd.php?id=jxws
-
+无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
+无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
+无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
+无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
+无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
+无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
+无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
+无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
+无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
+江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
 
 
 
@@ -82,17 +92,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 东南卫视,http://58.20.19.126:10999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
-无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
-无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
-无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8
-无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
-无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
-无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
-无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
-无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
-江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
+
 
 
 📺移动专网,#genre#
