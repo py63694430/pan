@@ -1,6 +1,5 @@
 📺全网,#genre#
 CCTV1,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
-CCTV1,rtsp://180.96.165.41:554/00000001/01000000000009320253000002939369?AuthInfo=%2BhIlefsPiXuj2Z%2B4WJRm0Le7Yw4mGVG9tkciLybCChszwaDJgATFhi6WIGmuCkgm%2BXUcnOvKVMLhNqGFxjkxO2qwTVQ2T1DOESI0LLE%2FeJw%3D&citycode=0008&usercode=0523202718038&Playtype=1&programid=ch00000000000000000297&contentid=ch00000000000000000297&videoid=ch12042322581126271661&recommendtype=0&userid=0523202718038&boid=001&stbid=901005990070407000009C2F4E4EC41A&terminalflag=1&profilecode=&usersessionid=457859485
 CCTV1,http://223.151.51.21:85/tsfile/live/0001_1.m3u8?by=angtv&?key=txiptv
 CCTV2,http://223.151.51.21:85/tsfile/live/0002_1.m3u8?by=angtv&?key=txiptv
 CCTV3,http://223.151.51.21:85/tsfile/live/0003_1.m3u8?by=angtv&?key=txiptv
