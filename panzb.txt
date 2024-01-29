@@ -1,4 +1,5 @@
 📺全网,#genre#
+
 CCTV1,http://58.20.19.126:10999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://58.20.19.126:10999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://113.57.103.216:9000/tsfile/live/0003_1.m3u8?key=txiptv
@@ -41,6 +42,49 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 潇湘电影,http://58.20.19.126:10999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://58.20.19.126:10999/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://58.20.19.126:10999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+
+CCTV1,http://124.115.205.101:8888/newlive/live/hls/2/live.m3u8
+CCTV2,http://124.115.205.101:8888/newlive/live/hls/3/live.m3u8
+CCTV3,http://124.115.205.101:8888/newlive/live/hls/4/live.m3u8
+CCTV4,http://124.115.205.101:8888/newlive/live/hls/5/live.m3u8
+CCTV5,http://124.115.205.101:8888/newlive/live/hls/6/live.m3u8
+CCTV+5,http://124.115.205.101:8888/newlive/live/hls/7/live.m3u8
+CCTV6,http://124.115.205.101:8888/newlive/live/hls/8/live.m3u8
+CCTV7,http://124.115.205.101:8888/newlive/live/hls/9/live.m3u8
+CCTV8,http://124.115.205.101:8888/newlive/live/hls/10/live.m3u8
+CCTV9,http://124.115.205.101:8888/newlive/live/hls/11/live.m3u8
+CCTV10,http://124.115.205.101:8888/newlive/live/hls/12/live.m3u8
+CCTV11,http://124.115.205.101:8888/newlive/live/hls/13/live.m3u8
+CCTV12,http://124.115.205.101:8888/newlive/live/hls/14/live.m3u8
+CCTV13,http://124.115.205.101:8888/newlive/live/hls/15/live.m3u8
+CCTV14,http://124.115.205.101:8888/newlive/live/hls/16/live.m3u8
+CCTV15,http://124.115.205.101:8888/newlive/live/hls/17/live.m3u8
+浙江卫视,http://124.115.205.101:8888/newlive/live/hls/22/live.m3u8
+江苏卫视,http://124.115.205.101:8888/newlive/live/hls/23/live.m3u8
+湖南卫视,http://124.115.205.101:8888/newlive/live/hls/24/live.m3u8
+河南卫视,http://124.115.205.101:8888/newlive/live/hls/25/live.m3u8
+湖北卫视,http://124.115.205.101:8888/newlive/live/hls/26/live.m3u8
+重庆卫视,http://124.115.205.101:8888/newlive/live/hls/50/live.m3u8
+天津卫视,http://124.115.205.101:8888/newlive/live/hls/51/live.m3u8
+东南卫视,http://124.115.205.101:8888/newlive/live/hls/52/live.m3u8
+广东卫视,http://124.115.205.101:8888/newlive/live/hls/39/live.m3u8
+深圳卫视,http://124.115.205.101:8888/newlive/live/hls/40/live.m3u8
+黑龙卫视,http://124.115.205.101:8888/newlive/live/hls/41/live.m3u8
+山东卫视,http://124.115.205.101:8888/newlive/live/hls/42/live.m3u8
+四川卫视,http://124.115.205.101:8888/newlive/live/hls/43/live.m3u8
+安徽卫视,http://124.115.205.101:8888/newlive/live/hls/44/live.m3u8
+山西卫视,http://124.115.205.101:8888/newlive/live/hls/27/live.m3u8
+甘肃卫视,http://124.115.205.101:8888/newlive/live/hls/28/live.m3u8
+宁夏卫视,http://124.115.205.101:8888/newlive/live/hls/29/live.m3u8
+海南卫视,http://124.115.205.101:8888/newlive/live/hls/30/live.m3u8
+广西卫视,http://124.115.205.101:8888/newlive/live/hls/31/live.m3u8
+青海卫视,http://124.115.205.101:8888/newlive/live/hls/32/live.m3u8
+西藏卫视,http://124.115.205.101:8888/newlive/live/hls/33/live.m3u8
+内蒙古电,http://124.115.205.101:8888/newlive/live/hls/34/live.m3u8
+新疆卫视,http://124.115.205.101:8888/newlive/live/hls/35/live.m3u8
+云南卫视,http://124.115.205.101:8888/newlive/live/hls/36/live.m3u8
+厦门卫视,http://124.115.205.101:8888/newlive/live/hls/37/live.m3u8
+兵团卫视,http://124.115.205.101:8888/newlive/live/hls/38/live.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
