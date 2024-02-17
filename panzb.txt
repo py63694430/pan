@@ -88,7 +88,7 @@ CCTV15,http://101.71.176.182:8888/newlive/live/hls/17/live.m3u8
 
 CCTV1,http://www.mhq3vvv.work.gd/bftv.php?id=488
 CCTV2,http://www.mhq3vvv.work.gd/bftv.php?id=061
-CCTV-3,http://www.mhq3vvv.work.gd/bftv.php?id=062
+CCTV3,http://www.mhq3vvv.work.gd/bftv.php?id=062
 CCTV4,http://www.mhq3vvv.work.gd/bftv.php?id=063
 CCTV5,http://www.mhq3vvv.work.gd/bftv.php?id=064
 CCTV5+,http://www.mhq3vvv.work.gd/bftv.php?id=246
