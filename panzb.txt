@@ -40,6 +40,25 @@ CCTV16,http://221.232.107.172:8880/udp/239.69.1.247:11124
 CCTV16 4K,http://221.232.107.172:8880/udp/239.69.1.249:11136
 CCTV17,http://221.232.107.172:8880/udp/239.69.1.152:10548
 
+CCTV1,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv1.m3u8
+CCTV2,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv2.m3u8
+CCTV3,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv3.m3u8
+CCTV4,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv4.m3u8
+CCTV5,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv5.m3u8
+CCTV5+,http://182.201.241.62liveali-tpgq.cctv.cn/live/cctv5p.m3u8
+CCTV6,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv6.m3u8
+CCTV7,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv7.m3u8
+CCTV8,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv8.m3u8
+CCTV9,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+CCTV10,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv10.m3u8
+CCTV11,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv11.m3u8
+CCTV12,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv12.m3u8
+CCTV13,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv13.m3u8
+CCTV14,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv14.m3u8
+CCTV15,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv15.m3u8
+CCTV16,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv16.m3u8
+CCTV17,http://182.201.241.62/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+
 CCTV1,http://101.71.176.182:8888/newlive/live/hls/2/live.m3u8
 CCTV1,http://58.210.23.42:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
