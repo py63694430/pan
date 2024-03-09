@@ -5,6 +5,8 @@ CCTV3,http://59.175.62.197:4022/rtp/239.69.1.122:10370
 CCTV4,http://59.175.62.197:4022/rtp/239.69.1.138:10466
 CCTV5,http://59.175.62.197:4022/rtp/239.69.1.123:10376
 CCTV5+,http://59.175.62.197:4022/rtp/239.254.96.234:9484
+五星体育,http://180.158.146.27:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://180.167.104.105:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://59.175.62.197:4022/rtp/239.69.1.124:10382
 CCTV7,http://59.175.62.197:4022/rtp/239.69.1.103:10256
 CCTV8,http://59.175.62.197:4022/rtp/239.69.1.125:10388
@@ -77,7 +79,6 @@ CCTV风云剧场,http://222.184.168.22:4000/rtp/239.49.9.10:6000
 CCTV文化精品,http://222.184.168.22:4000/rtp/239.49.9.11:6000
 CCTV怀旧剧场,http://222.184.168.22:4000/rtp/239.49.9.12:6000
 CCTV风云音乐,http://222.184.168.22:4000/rtp/239.49.9.13:6000
-CCTV女性时尚,http://222.184.168.22:4000/rtp/239.49.9.14:6000
 CCTV第一剧场,http://222.184.168.22:4000/rtp/239.49.9.15:6000
 CCTV央视台球,http://222.184.168.22:4000/rtp/239.49.9.22:6000
 
@@ -148,7 +149,7 @@ CCTV15,http://222.92.7.170:3334/tsfile/live/0015_1.m3u8
 深圳卫视,http://222.92.7.170:3334/tsfile/live/0126_1.m3u8
 山东卫视,http://222.92.7.170:3334/tsfile/live/0131_1.m3u8
 广东卫视,http://222.92.7.170:3334/tsfile/live/0125_1.m3u8
-黑龙卫视,http://222.92.7.170:3334/tsfile/live/0143_1.m3u8
+黑龙江卫视,http://222.92.7.170:3334/tsfile/live/0143_1.m3u8
 辽宁卫视,http://222.92.7.170:3334/tsfile/live/0121_1.m3u8
 湖北卫视,http://222.92.7.170:3334/tsfile/live/0132_1.m3u8
 四川卫视,http://222.92.7.170:3334/tsfile/live/0123_1.m3u8
@@ -250,8 +251,7 @@ CCTV5,http://58.53.154.172:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&au
 CCTV5+,http://101.71.176.182:8888/newlive/live/hls/7/live.m3u8
 CCTV5+,http://123.183.24.27:6666/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://219.146.83.202:9902/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-五星体育,http://180.158.146.27:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-五星体育,http://180.167.104.105:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV6,http://101.71.176.182:8888/newlive/live/hls/8/live.m3u8
 CCTV6,http://113.57.103.216:9000/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://219.146.83.202:9902/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -441,10 +441,10 @@ CCTV17,http://123.183.24.27:6666/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&a
 贵州卫视,http://123.183.24.27:6666/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://220.180.109.207:9902/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://222.185.245.194:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙卫视,http://101.71.176.182:8888/newlive/live/hls/46/live.m3u8
-黑龙卫视,http://58.210.23.42:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙卫视,http://58.210.60.226:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙卫视,http://123.183.24.27:6666/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://101.71.176.182:8888/newlive/live/hls/46/live.m3u8
+黑龙江卫视,http://58.210.23.42:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://58.210.60.226:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://123.183.24.27:6666/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://101.71.176.182:8888/newlive/live/hls/30/live.m3u8
 山东卫视,http://58.53.154.172:9901/tsfile/live/faacts/0131_2.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://58.53.154.26:9901/tsfile/live/faacts/0131_2.m3u8?key=txiptv&playlive=1&authid=0
