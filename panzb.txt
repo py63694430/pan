@@ -57,7 +57,7 @@ CCTV17,http://8.137.98.246/video.php?id=cctv17
 四川卫视,http://8.137.98.246/video.php?id=scws
 新疆卫视,http://8.137.98.246/video.php?id=xjws
 海南卫视,http://8.137.98.246/video.php?id=hinws
-兵团卫视,http://8.137.98.246/video.php?id=btws
+
 
 
 CCTV1,http://183.164.58.130:8888/rtp/238.1.78.166:7200
