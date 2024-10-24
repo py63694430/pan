@@ -5,7 +5,7 @@
 
 {"key":"荐片","name":"🎬┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com","jar": "https://gitee.com/p63694430/beifen/raw/master/bao/Panda.jar" },
 
-{"key":"厂长","name":"厂长影视","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.czzy77.com/"},
+{"key":"厂长","name":"厂长影视","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://czzy.top/"},
 {"key":"csp_Gz360","name":"瓜子影视","type":3,"api":"csp_Gz360","playerType":2,"jar": "https://gitee.com/p63694430/beifen/raw/master/bao/Panda.jar" },
 {"key":"csp_SuBaiBai","name":"素白影视","type":3,"api":"csp_SuBaiBai","jar": "https://gitee.com/p63694430/beifen/raw/master/bao/Panda.jar" },
 
