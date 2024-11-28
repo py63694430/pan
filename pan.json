@@ -1,9 +1,13 @@
 {
-"spider":"https://gitee.com/p63694430/beifen/raw/master/bao/fan.txt;md5;118bca13418f13c45c5c237ac93c2f07",
+"spider":"https://gitee.com/p63694430/beifen/raw/master/bao/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a",
 "sites":[
 {"key":"豆豆","name":"豆瓣推荐","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"荐片","name":"荐片影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com","jar": "https://gitee.com/p63694430/beifen/raw/master/bao/Panda.txt" },
+
+{"key":"csp_Jpyy","name":"🥇️┃金牌┃影视","type":3,"api":"csp_Jpyy","jar": "https://gitee.com/p63694430/beifen/raw/master/bao/Panda.txt" },
+
+{"key":"csp_Nongm","name":"🌾️┃农民┃影视","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn","jar": "https://gitee.com/p63694430/beifen/raw/master/bao/Panda.txt" },
 
 {"key":"厂长","name":"厂长影视","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy77.com/"},
 
@@ -57,6 +61,9 @@
 "副标题": "ui-type\">&&</span>","链接": "href=\"&&\"","简介": "description\"><p>&&</p","线路数组": "class=\"box p15\">&&</div>","线路标题": ">云播福利线路<","播放数组": "<div class=\"playlist&&</div","播放列表": "<li>&&</li","播放标题": ">&&</a","播放链接": "href='&&'","嗅探词": "index.m3u8","搜索数组": "<a class=\"ui-pic&&</a","搜索图片": "src=\"&&\"","搜索标题": "title=\"&&\"","搜索链接": "href=\"&&\"","搜索url": "https://m.xian372.top/search.asp?page={pg}&searchword={wd}&searchtype=-1","分类数组": "<a&&</a","分类标题": ".html\">&&</a[不包含:2#3#4#5#下一页]","分类ID": "href=\"/L/&&.html\"","分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"},"jar": "https://9700.kstore.space/XBPQ.jar" },
 {"key": "*美少女资源","name": "资源1","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "💞大地资源💞","name": "资源2","type": 0,"api": "https://dadiapi.com/api.php","searchable": 0,"quickSearch": 0},
+{"key": "番号","name": "资源3","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml","searchable": 0,"quickSearch": 0,"filterable": 0},
+
+{"key": "花椒","name": "资源4","type": 0,"api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key": "賤賤","name": "荐片备用","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "https://gitee.com/p63694430/beifen/raw/master/jianpian.json","timeout":60,"jar": "https://gitee.com/p63694430/beifen/raw/master/bao/pg.jar"},
 
@@ -72,7 +79,7 @@
 
 "lives":[
 {"name":"live","type":0,"url":"https://panyuxi.asuscomm.com:444/AICLOUD1131492442/zb.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"xiutan","type":0,"url":"https://9700.kstore.space/xiutan.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"wq","type":0,"url":"https://live.wqwqwq.sbs/tv.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"ipv6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
