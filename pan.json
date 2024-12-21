@@ -7,7 +7,7 @@
 
 {"key": "直播转点播","name": "🐼️┃电视┃直播","type": 3,"searchable": 0,"api": "https://gitee.com/p63694430/beifen/raw/master/live2vod.js","ext": "https://gitee.com/p63694430/beifen/raw/master/feimaolive.json","jar": "https://gitee.com/p63694430/beifen/raw/master/bao/pg.jar" },
 
-{"key":"荐片","name":"荐片影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com","jar": "https://gitee.com/p63694430/beifen/blob/master/bao/Feim.txt" },
+{"key": "荐片","name": "荐片影视","api": "csp_Jianpian","type": 3,"playerType": "1","ext": "http://api2.rinhome.com","jar": "https://gitee.com/p63694430/beifen/raw/master/bao/xm.jar" },
 
 {"key": "csp_SuBaiBai","name": "白白影视","type": 3,"api": "csp_SuBaiBai","playerType": 2,"ext": "https://subaibai.com/","jar": "https://gitee.com/p63694430/beifen/raw/master/bao/xm.jar" },
 
@@ -15,11 +15,9 @@
 
 {"key": "csp_Wwys","name": "农民影视","type": 3,"playerType": 2,"changeable": 0,"api": "csp_Wwys","ext": "https://www.wwgz.cn/","jar": "https://gitee.com/p63694430/beifen/raw/master/bao/xm.jar" },
 
-{"key":"csp_Jpyy","name":"金牌影视","type":3,"api":"csp_Jpyy","jar": "https://gitee.com/p63694430/beifen/blob/master/bao/Feim.txt" },
-
 {"key":"厂长","name":"厂长影视","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/"},
 
-{"key":"csp_Gz360","name":"瓜子影视","type":3,"api":"csp_Gz360","playerType":2,"jar": "https://gitee.com/p63694430/beifen/blob/master/bao/Feim.txt" },
+{"key":"csp_Gz360","name":"瓜子影视","type":3,"api":"csp_Gz360","playerType":2,"jar": "https://gitee.com/p63694430/beifen/raw/master/bao/xm.jar" },
 
 {"key":"文采","name":"文采影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
