@@ -1,24 +1,26 @@
 {
 "spider":"https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/jar/fan.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3",
 "sites":[
-{"key":"drpy_js_豆瓣","name":"豆瓣推荐","type":3,"api":"csp_Douban","searchable":0,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/jar/Panda.txt" },
+{"key":"豆","name":"豆瓣推荐","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"荐片","name":"┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com","jar": "https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/jar/Panda.txt" },
+{"key":"荐片","name":"┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com","jar": "https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/jar/xm.jar" },
 
-{"key": "csp_SuBaiBai","name": "白白影视","type": 3,"api": "csp_SuBaiBai","playerType": 2,"ext": "https://subaibai.com/","jar": "https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/jar/Panda.txt" },
+{"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_Sbaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
-{"key": "csp_Xlys","name": "哔嘀影视","api": "csp_Xlys","type": 3,"playerType": 2,"jar": "https://gitee.com/p63694430/beifen/raw/master/bao/xm.jar" },
+{"key": "csp_Xlys","name": "哔嘀影视","api": "csp_Xlys","type": 3,"playerType": 2,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/jar/xm.jar" },
 
-{"key": "csp_Wwys","name": "农民影视","type": 3,"playerType": 2,"changeable": 0,"api": "csp_Wwys","ext": "https://www.wwgz.cn/","jar": "https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/jar/Panda.txt" },
+{"key": "csp_Wwys","name": "农民影视","type": 3,"playerType": 2,"changeable": 0,"api": "csp_Wwys","ext": "https://www.wwgz.cn/","jar": "https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/jar/xm.jar" },
 
 {"key":"厂长","name":"厂长影视","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/"},
 
-{"key":"csp_Gz360","name":"瓜子影视","type":3,"api":"csp_Gz360","playerType":2,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/jar/Panda.txt" },
+{"key":"csp_Gz360","name":"瓜子影视","type":3,"api":"csp_Gz360","playerType":2,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/py63694430/pan/main/jar/xm.jar" },
 {"key":"文采","name":"文采影视","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"木星","name":"木星多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
+{"key":"木星","name":"🌞木星┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="},
 
-{"key":"速播","name":"⏮速播多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytPprjXXepEhRI1g+FIGqkCgBFA="},
+{"key":"兄弟","name":"🍊兄弟┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"filterable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbdBHCJkQSzBQt+vmhxkUAtbepC6RjQjA6r70U2OrZ3mJyX4hh2AsXS8mTp9pKB8="},
+
+{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 
 {"key":"欢视","name":"欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
 
